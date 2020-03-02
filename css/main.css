@@ -1,0 +1,14 @@
+#nav{
+    background-color:  #003300;
+}
+#section-a{
+    background-image: url("../images/house-money-capitalism-fortune-12619.jpg");
+    height: 50vh;
+    width: 100%;
+    padding: 70px;
+    text-align: center;
+    color: white;
+    background-position: center;
+    font-family:" Arial Black";
+
+}
