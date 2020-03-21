@@ -16,7 +16,7 @@ require 'header.php';
             <div class="carousel-item active">
                 <img src="images/house-luxury-villa-swimming-pool-32870.jpg" class="d-block w-100" alt="..." style="height: 70vh" >
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>AFFORDABLE SERVICES</h5>
+                    <h5>AFFORDABLE SERVICES AT A GO</h5>
                     <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
                 </div>
             </div>
